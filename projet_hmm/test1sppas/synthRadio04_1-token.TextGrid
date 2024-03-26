@@ -1,0 +1,216 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 58.238813
+tiers? <exists>
+size = 3
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "Tokens"
+		xmin = 0
+		xmax = 58.238813
+		intervals: size = 1
+		intervals [1]:
+		xmin = 0
+		xmax = 58.238813
+		text = "de
+finale
+personne
+aurait
+regardé
+le
+football
+monsieur
+platini
+est
+ce
+que
+l'on
+pourrait
+pas
+réduire
+les
+journées
+de
++
+pour
+pour
+l'
+avenir
+réduire
+les
+jou
+les
+les
+soirées
+de
+football
+oui
+réduire
+les
+matchs
+donnés
+quarante
+minutes
+non
+ça
+ça
+se
+discute
+pas
+comme
+ça
+le
+la
+coupe
+du
+monde
+durerait
+avant
+euh
+à
+vingt_quatre
+équipes
+durerait
+trente-et-un
+jours
+à
+trente_deux
+équipes
+elles
+durent
+trente_trois
+jours
+donc
+y
+a
+quand
+même
+euh
+six
+équipes
+de_plus
+et
+y
+a
+non
+huit
+équipes
+de_plus
+et
+douze
+matchs
+de_plus
+il
+faut
+le
+caser
+douze
+matchs
+à
+ses
+calendriers
+il
+faut
+les
+faut
+les
+caser
+euh
+on
+peut
+on
+peut
+éventuellement
+réduire
+mais
+il
+faut
+mettre
+quatre
+ou
+cinq
+matchs
+par
+jour
+quatre
+à
+cinq
+matchs
+par
+jour
+hum
+sinon
+on
+peut
+pas
+faire
+c'est
+c'est
+mathématique
+votre
+futur
+patron
+célibataire
+visiblement
+faut
+descendre
+à
+vingt_huit
+à
+vingt_huit
+quoi
+à
+vingt_huit
+jours
+vingt_huit
+jours
+de
+mais
+il
+faut
+mettre
+trois
+ou
+quatre
+matchs
+par
+jour
+euh
+écoutez
+si
+vous
+avez
+mis
+des
+matchs
+france
+euh
+france
+je
+sais
+pas
+quoi
+italie"
+	item [2]:
+		class = "IntervalTier"
+		name = "OccTokens"
+		xmin = 0
+		xmax = 58.238813
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0
+			xmax = 58.238813
+			text = "178"
+	item [3]:
+		class = "IntervalTier"
+		name = "DurTokens"
+		xmin = 0
+		xmax = 58.238813
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0
+			xmax = 58.238813
+			text = "0.0"

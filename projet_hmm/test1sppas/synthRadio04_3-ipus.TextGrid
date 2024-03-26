@@ -1,0 +1,182 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 60.037625
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "IPUs"
+		xmin = 0.0
+		xmax = 60.037625
+		intervals: size = 42
+		intervals [1]:
+			xmin = 0.0
+			xmax = 3.695
+			text = "ipu_1"
+		intervals [2]:
+			xmin = 3.695
+			xmax = 4.03
+			text = "#"
+		intervals [3]:
+			xmin = 4.03
+			xmax = 5.485
+			text = "ipu_2"
+		intervals [4]:
+			xmin = 5.485
+			xmax = 5.725
+			text = "#"
+		intervals [5]:
+			xmin = 5.725
+			xmax = 6.58
+			text = "ipu_3"
+		intervals [6]:
+			xmin = 6.58
+			xmax = 6.795
+			text = "#"
+		intervals [7]:
+			xmin = 6.795
+			xmax = 11.635
+			text = "ipu_4"
+		intervals [8]:
+			xmin = 11.635
+			xmax = 12.085
+			text = "#"
+		intervals [9]:
+			xmin = 12.085
+			xmax = 13.48
+			text = "ipu_5"
+		intervals [10]:
+			xmin = 13.48
+			xmax = 13.72
+			text = "#"
+		intervals [11]:
+			xmin = 13.72
+			xmax = 14.92
+			text = "ipu_6"
+		intervals [12]:
+			xmin = 14.92
+			xmax = 15.52
+			text = "#"
+		intervals [13]:
+			xmin = 15.52
+			xmax = 18.525
+			text = "ipu_7"
+		intervals [14]:
+			xmin = 18.525
+			xmax = 18.9
+			text = "#"
+		intervals [15]:
+			xmin = 18.9
+			xmax = 21.995
+			text = "ipu_8"
+		intervals [16]:
+			xmin = 21.995
+			xmax = 23.535
+			text = "#"
+		intervals [17]:
+			xmin = 23.535
+			xmax = 25.75
+			text = "ipu_9"
+		intervals [18]:
+			xmin = 25.75
+			xmax = 26.095
+			text = "#"
+		intervals [19]:
+			xmin = 26.095
+			xmax = 27.59
+			text = "ipu_10"
+		intervals [20]:
+			xmin = 27.59
+			xmax = 28.625
+			text = "#"
+		intervals [21]:
+			xmin = 28.625
+			xmax = 30.435
+			text = "ipu_11"
+		intervals [22]:
+			xmin = 30.435
+			xmax = 34.055
+			text = "#"
+		intervals [23]:
+			xmin = 34.055
+			xmax = 35.085
+			text = "ipu_12"
+		intervals [24]:
+			xmin = 35.085
+			xmax = 35.29
+			text = "#"
+		intervals [25]:
+			xmin = 35.29
+			xmax = 35.66
+			text = "ipu_13"
+		intervals [26]:
+			xmin = 35.66
+			xmax = 36.53
+			text = "#"
+		intervals [27]:
+			xmin = 36.53
+			xmax = 37.06
+			text = "ipu_14"
+		intervals [28]:
+			xmin = 37.06
+			xmax = 38.73
+			text = "#"
+		intervals [29]:
+			xmin = 38.73
+			xmax = 39.1
+			text = "ipu_15"
+		intervals [30]:
+			xmin = 39.1
+			xmax = 41.28
+			text = "#"
+		intervals [31]:
+			xmin = 41.28
+			xmax = 41.95
+			text = "ipu_16"
+		intervals [32]:
+			xmin = 41.95
+			xmax = 45.1
+			text = "#"
+		intervals [33]:
+			xmin = 45.1
+			xmax = 47.67
+			text = "ipu_17"
+		intervals [34]:
+			xmin = 47.67
+			xmax = 48.07
+			text = "#"
+		intervals [35]:
+			xmin = 48.07
+			xmax = 48.82
+			text = "ipu_18"
+		intervals [36]:
+			xmin = 48.82
+			xmax = 49.105
+			text = "#"
+		intervals [37]:
+			xmin = 49.105
+			xmax = 52.915
+			text = "ipu_19"
+		intervals [38]:
+			xmin = 52.915
+			xmax = 53.26
+			text = "#"
+		intervals [39]:
+			xmin = 53.26
+			xmax = 57.1
+			text = "ipu_20"
+		intervals [40]:
+			xmin = 57.1
+			xmax = 57.425
+			text = "#"
+		intervals [41]:
+			xmin = 57.425
+			xmax = 59.44
+			text = "ipu_21"
+		intervals [42]:
+			xmin = 59.44
+			xmax = 60.037625
+			text = "#"

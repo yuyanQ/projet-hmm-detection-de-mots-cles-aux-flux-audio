@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 13.10275
+tiers? <exists>
+size = 3
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "Tokens"
+		xmin = 0.0
+		xmax = 13.10275
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 13.10275
+			text = "de
+finale
+personne
+aurait
+regardé
+le
+football
+monsieur
+platini
+est
+ce
+que
+l'on
+pourrait
+pas
+réduire
+les
+journées
+de
+pour
+pour
+l'
+avenir
+réduire
+les
+jou
+les
+les
+soirées
+de
+football"
+	item [2]:
+		class = "IntervalTier"
+		name = "OccTokens"
+		xmin = 0.0
+		xmax = 13.10275
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 13.10275
+			text = "31"
+	item [3]:
+		class = "IntervalTier"
+		name = "DurTokens"
+		xmin = 0.0
+		xmax = 13.10275
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 13.10275
+			text = "13.1028"

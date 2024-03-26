@@ -1,0 +1,47 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 13.102750
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "Phones"
+		xmin = 0.0
+		xmax = 13.102750
+		intervals: size = 1
+			xmin = 0.0
+			xmax = 13.102750
+			text = "{t|d-@|d}
+{f-i-n-A/-l-@|f-i-n-A/-l}
+{p-E-R-s-O/-n-@|p-E-R-s-O/-n}
+{O/-R-E|O/-R-e-t|O/-R-E-t|O/-R-e}
+{R-@-g-A/-R-d-e|R-g-A/-R-d-e}
+{l-@|l|l-e}
+f-u-t-b-O/-l
+m-2-s-j-2
+p-l-A/-t-i-n-i
+{E-s-t-@|E-s-t|e|t|E|e-t|E-t}
+{s-e-2|s|s-@}
+{k-@|k}
+{E-l-O~|l-O~-n|e-l-O~|l-O~}
+{p-u-R-E|p-u-R-e|p-u-R-E-t|p-u-R-e-t}
+{p-A/-z|p-A/}
+{R-E-d-y-i-R|R-E-d-y-i-R-@}
+{l-e|l-E-z|l-E|l-e-z|l-@}
+{Z-u-R-n-e-z|Z-u-R-n-e}
+{t|d-@|d}
+p-u-R
+p-u-R
+l
+{A/-v-n-i-R|A/-v-@-n-i-R}
+{R-E-d-y-i-R|R-E-d-y-i-R-@}
+{l-e|l-E-z|l-E|l-e-z|l-@}
+{Z-O/-y|Z-i-u|Z-i-O/-y|Z-u}
+{l-e|l-E-z|l-E|l-e-z|l-@}
+{l-e|l-E-z|l-E|l-e-z|l-@}
+{s-w-A/-R-e|s-w-A/-R-e-z}
+{t|d-@|d}
+f-u-t-b-O/-l"

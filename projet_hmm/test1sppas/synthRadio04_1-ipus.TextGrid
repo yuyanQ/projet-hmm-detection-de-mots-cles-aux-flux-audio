@@ -1,0 +1,390 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 58.2388125 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "IPUs" 
+        xmin = 0 
+        xmax = 58.2388125 
+        intervals: size = 47 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.805 
+            text = "ipu_1" 
+        intervals [2]:
+            xmin = 0.805 
+            xmax = 1.455 
+            text = "#" 
+        intervals [3]:
+            xmin = 1.455 
+            xmax = 2.665 
+            text = "ipu_2" 
+        intervals [4]:
+            xmin = 2.665 
+            xmax = 2.92 
+            text = "#" 
+        intervals [5]:
+            xmin = 2.92 
+            xmax = 6.155 
+            text = "ipu_3" 
+        intervals [6]:
+            xmin = 6.155 
+            xmax = 6.845 
+            text = "#" 
+        intervals [7]:
+            xmin = 6.845 
+            xmax = 8.14 
+            text = "ipu_4" 
+        intervals [8]:
+            xmin = 8.14 
+            xmax = 9.185 
+            text = "#" 
+        intervals [9]:
+            xmin = 9.185 
+            xmax = 11.885 
+            text = "ipu_5" 
+        intervals [10]:
+            xmin = 11.885 
+            xmax = 13.22 
+            text = "#" 
+        intervals [11]:
+            xmin = 13.22 
+            xmax = 16.215 
+            text = "ipu_6" 
+        intervals [12]:
+            xmin = 16.215 
+            xmax = 16.45 
+            text = "#" 
+        intervals [13]:
+            xmin = 16.45 
+            xmax = 17.86 
+            text = "ipu_7" 
+        intervals [14]:
+            xmin = 17.86 
+            xmax = 18.255 
+            text = "#" 
+        intervals [15]:
+            xmin = 18.255 
+            xmax = 18.76 
+            text = "ipu_8" 
+        intervals [16]:
+            xmin = 18.76 
+            xmax = 19.47 
+            text = "#" 
+        intervals [17]:
+            xmin = 19.47 
+            xmax = 21.44 
+            text = "ipu_9" 
+        intervals [18]:
+            xmin = 21.44 
+            xmax = 21.765 
+            text = "#" 
+        intervals [19]:
+            xmin = 21.765 
+            xmax = 26.64 
+            text = "ipu_10" 
+        intervals [20]:
+            xmin = 26.64 
+            xmax = 27.77 
+            text = "#" 
+        intervals [21]:
+            xmin = 27.77 
+            xmax = 28.82 
+            text = "ipu_11" 
+        intervals [22]:
+            xmin = 28.82 
+            xmax = 29.66 
+            text = "#" 
+        intervals [23]:
+            xmin = 29.66 
+            xmax = 32.055 
+            text = "ipu_12" 
+        intervals [24]:
+            xmin = 32.055 
+            xmax = 32.405 
+            text = "#" 
+        intervals [25]:
+            xmin = 32.405 
+            xmax = 33.215 
+            text = "ipu_13" 
+        intervals [26]:
+            xmin = 33.215 
+            xmax = 33.98 
+            text = "#" 
+        intervals [27]:
+            xmin = 33.98 
+            xmax = 34.915 
+            text = "ipu_14" 
+        intervals [28]:
+            xmin = 34.915 
+            xmax = 35.925 
+            text = "#" 
+        intervals [29]:
+            xmin = 35.925 
+            xmax = 36.99 
+            text = "ipu_15" 
+        intervals [30]:
+            xmin = 36.99 
+            xmax = 37.23 
+            text = "#" 
+        intervals [31]:
+            xmin = 37.23 
+            xmax = 39.495 
+            text = "ipu_16" 
+        intervals [32]:
+            xmin = 39.495 
+            xmax = 39.73 
+            text = "#" 
+        intervals [33]:
+            xmin = 39.73 
+            xmax = 40.88 
+            text = "ipu_17" 
+        intervals [34]:
+            xmin = 40.88 
+            xmax = 41.575 
+            text = "#" 
+        intervals [35]:
+            xmin = 41.575 
+            xmax = 42.765 
+            text = "ipu_18" 
+        intervals [36]:
+            xmin = 42.765 
+            xmax = 44.655 
+            text = "#" 
+        intervals [37]:
+            xmin = 44.655 
+            xmax = 48.105 
+            text = "ipu_19" 
+        intervals [38]:
+            xmin = 48.105 
+            xmax = 48.65 
+            text = "#" 
+        intervals [39]:
+            xmin = 48.65 
+            xmax = 49.835 
+            text = "ipu_20" 
+        intervals [40]:
+            xmin = 49.835 
+            xmax = 50.135 
+            text = "#" 
+        intervals [41]:
+            xmin = 50.135 
+            xmax = 50.8 
+            text = "ipu_21" 
+        intervals [42]:
+            xmin = 50.8 
+            xmax = 51.07 
+            text = "#" 
+        intervals [43]:
+            xmin = 51.07 
+            xmax = 51.605 
+            text = "ipu_22" 
+        intervals [44]:
+            xmin = 51.605 
+            xmax = 54.42 
+            text = "#" 
+        intervals [45]:
+            xmin = 54.42 
+            xmax = 55.89 
+            text = "ipu_23" 
+        intervals [46]:
+            xmin = 55.89 
+            xmax = 57.48 
+            text = "#" 
+        intervals [47]:
+            xmin = 57.48 
+            xmax = 58.2388125 
+            text = "ipu_24" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phoneme" 
+        xmin = 0 
+        xmax = 58.2388125 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 58.2388125 
+            text = "{t|d-@|d}
+{f-i-n-A/-l-@|f-i-n-A/-l}
+{p-E-R-s-O/-n-@|p-E-R-s-O/-n}
+{O/-R-E|O/-R-e-t|O/-R-E-t|O/-R-e}
+{R-@-g-A/-R-d-e|R-g-A/-R-d-e}
+{l-@|l|l-e}
+f-u-t-b-O/-l
+m-2-s-j-2
+p-l-A/-t-i-n-i
+{E-s-t-@|E-s-t|e|t|E|e-t|E-t}
+{s-e-2|s|s-@}
+{k-@|k}
+{E-l-O~|l-O~-n|e-l-O~|l-O~}
+{p-u-R-E|p-u-R-e|p-u-R-E-t|p-u-R-e-t}
+{p-A/-z|p-A/}
+{R-E-d-y-i-R|R-E-d-y-i-R-@}
+{l-e|l-E-z|l-E|l-e-z|l-@}
+{Z-u-R-n-e-z|Z-u-R-n-e}
+{t|d-@|d}
+sil
+p-u-R
+p-u-R
+l
+{A/-v-n-i-R|A/-v-@-n-i-R}
+{R-E-d-y-i-R|R-E-d-y-i-R-@}
+{l-e|l-E-z|l-E|l-e-z|l-@}
+{Z-O/-y|Z-i-u|Z-i-O/-y|Z-u}
+{l-e|l-E-z|l-E|l-e-z|l-@}
+{l-e|l-E-z|l-E|l-e-z|l-@}
+{s-w-A/-R-e|s-w-A/-R-e-z}
+{t|d-@|d}
+f-u-t-b-O/-l
+{u-i|w-i}
+{R-E-d-y-i-R|R-E-d-y-i-R-@}
+{l-e|l-E-z|l-E|l-e-z|l-@}
+{m-A/-t-S|m-A/-t-S-z}
+{d-O/-n-e|d-O/-n-e-z}
+{k-A/-R-a~-t-@|k-A/-R-a~-t}
+{m-i-n-y-t-@|m-i-n-y-t|m-i-n-y-t-z}
+{n-O~|n-O~-n|n-O/|n-a~}
+{s-A/|s}
+{s-A/|s}
+{s|s-@}
+{d-i-s-k-y-t|d-i-s-k-y-t-@}
+{p-A/-z|p-A/}
+{k-O/-m-@|k-O/-m}
+{s-A/|s}
+{l-@|l|l-e}
+l-A/
+{k-u-p-@|k-u-p}
+{d|d-y}
+{m-O~-d-@|m-O~-d}
+{d-y-R-2-R-E-t|d-y-R-2-R-E}
+{A/-v-a~|A/-v-a~-t}
+fp
+A/
+{v-U~/-k-A/-t-R|v-U~/-k-A/-t|v-U~/-t-k-A/-t-R|v-U~/-t-k-A/-t}
+{E-k-i-p-@|e-k-i-p|E-k-i-p-z|E-k-i-p}
+{d-y-R-2-R-E-t|d-y-R-2-R-E}
+{t-R-a~-t-e-U~/|t-R-a~-t-E-U~/|t-R-a~-t-@-e-U~/|t-R-a~-t-@-E-U~/}
+{Z-u-R-z|Z-u-R}
+A/
+{t-R-a~-t-d-2-z|t-R-a~-t-d-2|t-R-a~-t-@-d-2-z|t-R-a~-t-@-d-2}
+{E-k-i-p-@|e-k-i-p|E-k-i-p-z|E-k-i-p}
+{E-l-z|E-l-@-z|E-l|E-l-@}
+{d-y-R-2-t|d-y-R}
+{t-R-a~-t-@-t-R-w-A/-z|t-R-a~-t-@-t-R-w-A/|t-R-a~-t-t-R-w-A/|t-R-a~-t-t-R-w-A/-z}
+{Z-u-R-z|Z-u-R}
+{d-O~|d-O~-k}
+{H-i-g-R-E-k|i|j|i-j}
+A/
+{k-a~|k-a~-t}
+{m-E-m-@|m-E-m}
+fp
+{s-i|s-i-s|s-i-z}
+{E-k-i-p-@|e-k-i-p|E-k-i-p-z|E-k-i-p}
+d-2-p-l-y-s
+{e|E}
+{H-i-g-R-E-k|i|j|i-j}
+A/
+{n-O~|n-O~-n|n-O/|n-a~}
+{j-y-i-t|j-y-i|y-i-t|y-i}
+{E-k-i-p-@|e-k-i-p|E-k-i-p-z|E-k-i-p}
+d-2-p-l-y-s
+{e|E}
+{d-u-z|d-u-z-@}
+{m-A/-t-S|m-A/-t-S-z}
+d-2-p-l-y-s
+{i-l|i}
+{f-O/-t|f-O/|f}
+{l-@|l|l-e}
+{k-A/-z-e-R|k-A/-z-e}
+{d-u-z|d-u-z-@}
+{m-A/-t-S|m-A/-t-S-z}
+A/
+{s-E|s-e|s-E-z|s-e-z}
+{k-A/-l-a~-d-R-i-e|k-A/-l-a~-d-R-i-j-e-z|k-A/-l-a~-d-R-i-j-e|k-A/-l-a~-d-R-i-e-z}
+{i-l|i}
+{f-O/-t|f-O/|f}
+{l-e|l-E-z|l-E|l-e-z|l-@}
+{f-O/-t|f-O/|f}
+{l-e|l-E-z|l-E|l-e-z|l-@}
+{k-A/-z-e-R|k-A/-z-e}
+fp
+{O~-n|O~}
+{p-2-t|p-9-t|p-@}
+{O~-n|O~}
+{p-2-t|p-9-t|p-@}
+{E-v-a~-t-y-E-l-2-m-a~|e-v-a~-t-j-E-l-m-a~|e-v-a~-t-j-E-l-@-m-a~|E-v-a~-t-y-E-l-2-m-a~-t}
+{R-E-d-y-i-R|R-E-d-y-i-R-@}
+{m-E-z|m-E|m-e|m|m-e-z}
+{i-l|i}
+{f-O/-t|f-O/|f}
+{m-E-t-R|m-E-t-R-@}
+{k-A/-t-R|k-A/-t-R-@|k-A/-t}
+u
+{s-U~/-k|s-U~/}
+{m-A/-t-S|m-A/-t-S-z}
+p-A/-R
+Z-u-R
+{k-A/-t-R|k-A/-t-R-@|k-A/-t}
+A/
+{s-U~/-k|s-U~/}
+{m-A/-t-S|m-A/-t-S-z}
+p-A/-R
+Z-u-R
+@-m
+s-i-n-O~
+{O~-n|O~}
+{p-2-t|p-9-t|p-@}
+{p-A/-z|p-A/}
+{f-E-R-@|f-E-R}
+s-e
+s-e
+{m-A/-t-E-m-A/-t-i-k-@|m-A/-t-E-m-A/-t-i-k}
+{v-O/-t-R|v-O/-t|v-O/-t-R-@}
+f-y-t-y-R
+{p-A/-t-R-O~|p-A/-t-R-O/|p-A/-t-R-O/-n}
+{s-E-l-i-b-A/-t-E-R|s-E-l-i-b-A/-t-E-R-@}
+{v-i-z-i-b-l-2-m-a~-t|v-i-z-i-b-l-2-m-a~}
+{f-O/-t|f-O/|f}
+{d-E-s-a~-d-R-@|d-E-s-a~-d-R|d-e-s-a~-d-R-@|d-E-s-a~-d}
+A/
+{v-U~/-y-i|v-U~/-y-i-t|v-U~/-t-y-i|v-U~/-j-y-i}
+A/
+{v-U~/-y-i|v-U~/-y-i-t|v-U~/-t-y-i|v-U~/-j-y-i}
+k-w-A/
+A/
+{v-U~/-y-i|v-U~/-y-i-t|v-U~/-t-y-i|v-U~/-j-y-i}
+{Z-u-R-z|Z-u-R}
+{v-U~/-y-i|v-U~/-y-i-t|v-U~/-t-y-i|v-U~/-j-y-i}
+{Z-u-R-z|Z-u-R}
+{t|d-@|d}
+{m-E-z|m-E|m-e|m|m-e-z}
+{i-l|i}
+{f-O/-t|f-O/|f}
+{m-E-t-R|m-E-t-R-@}
+{t-R-w-A/|t-R-w-A/-z}
+u
+{k-A/-t-R|k-A/-t-R-@|k-A/-t}
+{m-A/-t-S|m-A/-t-S-z}
+p-A/-R
+Z-u-R
+fp
+{e-k-u-t-e-z|e-k-u-t-e|E-k-u-t-e|E-k-u-t-e-z}
+{s-i|s}
+{v-u|v-u-z}
+{A/-v-e-z|A/-v-e}
+{m-i|m-i-z}
+{d-E|d-E-z|d-e|d-e-z|d}
+{m-A/-t-S|m-A/-t-S-z}
+{f-R-a~-s|f-R-a~-s-@}
+fp
+{f-R-a~-s|f-R-a~-s-@}
+{Z-@|S|Z}
+{s-e-z|s-E|s-E-z|s-e|s}
+{p-A/-z|p-A/}
+k-w-A/
+i-t-A/-l-i" 

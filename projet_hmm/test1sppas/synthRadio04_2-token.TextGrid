@@ -1,0 +1,329 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 58.341563
+tiers? <exists>
+size = 3
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "Tokens"
+		xmin = 0.0
+		xmax = 58.341563
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 58.341563
+			text = "bon
+les
+gens
+râlé
+c'est
+si
+vous
+mettiez
+france
+afrique
+du
+sud
+à
+vingt-et-un
+heures
+en
+même
+temps
+vous
+avez
+d'
+un
+autre
+match
+à
+lance
+à
+vingt-et-un
+heures
+je
+sais
+pas
+euh
+tout_le
+monde
+va
+aller
+non
+je
+crois
+qu'
+on
+pouvait
+pas
+faire
+autre_chose
+que
+faire
+comme
+ça
+n'
+ont
+pas
+passé
+à
+trente_deux
+équipes
+aussi
+moi
+je
+trouve
+que
+c'est
+de
+bonnes
+choses
+à
+passer
+à
+trente_deux
+équipes
+mais
+des
+la
+fifa
+ah
+y
+a
+pas
+ça
+trente_deux
+équipes
+hum
+le
+bilan
+tout
+de_même
+c'est
+qu'
+on
+se
+retrouve
+euh
+avec
+des
+grands
+pays
+en
+finale
+on
+enlève
+le
+cas
+de
+la
+croatie
+mais
+le
+cas
+de
+la
+croatie
+est
+particulier
+qu'
+il
+il
+est
+issu
+la
+croatie
+est
+issue
+d'
+une
+grande
+équipe
+qui
+était
+l'
+équipe
+de
+yugoslavia
+ouais
+qui
+était
+déjà
+une
+très
+grande
+football
+ouais
+mais
+au
+final
+il
+reste
+que
+les
+pays
+très
+développés
+les
+grands
+pays
+riches
+dans
+le
+la
+dernière
+ligne
+droite
+pose
+une
+question
+une
+question
+de
+richesse
+c'est
+une
+question
+de
+valeur
+c'est
+de
+meilleurs
+les
+meilleurs
+équipes
+oui
+et
+à
+quoi
+ça
+sert
+de
+faire
+une
+compétition
+à
+trente_deux
+au
+fond
+si
+les
+plus
+mauvais
+s'
+en
+vont
+dès
+le
+départ
+et
+il
+reste
+les
+meilleurs
+à
+la
+fin
+mais
+au_moins
+ils
+ont
+participé
+à
+la
+coupe
+du
+monde
+c'est
+la
+coupe
+du
+monde
+c'est
+pas
+la
+coupe
+des
+meilleurs
+c'est
+pas
+la
+coupe
+des
+pays
+riches
+c'est
+la
+coupe
+du
+monde
+oui
+c'est
+c'est
+important
+de
+de
+le
+dire
+nous
+avons
+christophe
+en
+ligne
+bonjour
+oui
+bonjour
+bonjour
+michel
+patini
+bonjour
+je
+fais
+partie
+de
+de
+ces
+gens
+qui
+ont
+trente_cinq
+ans
+et
+qui
+ont
+qui
+ont
+rêvé
+donc
+en
+vous
+voyant
+jouer
+euh
+ne
+regrettez
+vous
+pas"
+	item [2]:
+		class = "IntervalTier"
+		name = "OccTokens"
+		xmin = 0.0
+		xmax = 58.341563
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 58.341563
+			text = "292"
+	item [3]:
+		class = "IntervalTier"
+		name = "DurTokens"
+		xmin = 0.0
+		xmax = 58.341563
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 58.341563
+			text = "0.0"
